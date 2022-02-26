@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "PCM1780DBQR")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_PCM1780DBQR/KiCAD/2022-02-26_06-23-56/2022-02-26_06-23-56.kicad_sym")(options "")(descr ""))
+)
