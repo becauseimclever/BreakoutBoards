@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "OpenStick")(type "KiCad")(uri "C:/ws/KiCadFootprints/OpenStick.pretty")(options "")(descr ""))
+)
