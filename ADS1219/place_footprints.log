@@ -1,0 +1,40 @@
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 378:Plugin executed on: 'win32'
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 379:Plugin executed with python version: '3.9.10 (main, Jul 19 2022, 05:36:50) [MSC v.1932 64 bit (AMD64)]'
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 380:KiCad build version: (6.0.7)
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 381:Plugin version: 1.2.5
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 382:Frame repr: <wx._core.Frame object at 0x000002E6A860B4C0>
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP9 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP8 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP7 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP6 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP5 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP4 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP3 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP2 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint TP1 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint U1 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint J1 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint H2 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint JP3 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint J3 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint H1 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint H4 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R3 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint JP1 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint C1 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R2 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint H3 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint R1 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint J2 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint JP4 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint JP2 on root level
+08-07 17:13:22 com_github_MitjaNemec_PlaceFootprints.place_footprints 148:Footprint C2 on root level
+08-07 17:13:26 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 570:Reference designator is: TP
+08-07 17:13:26 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 571:Reference number is: 1
+08-07 17:13:26 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 603:Sorted and filtered list:
+['TP1', 'TP2', 'TP3', 'TP4', 'TP5', 'TP6', 'TP7', 'TP8', 'TP9']
+08-07 17:13:38 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 641:Footprints to place:
+['TP1', 'TP2', 'TP3', 'TP4', 'TP5', 'TP6', 'TP7', 'TP8', 'TP9']
+08-07 17:13:38 com_github_MitjaNemec_PlaceFootprints.place_footprints 327:Starting placing with matrix layout
+08-07 17:13:38 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 718:Placing complete
