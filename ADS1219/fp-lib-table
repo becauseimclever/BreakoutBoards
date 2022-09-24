@@ -1,5 +1,4 @@
 (fp_lib_table
   (lib (name "ADS1219")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_ADS1219IPW/KiCAD/2022-05-10_03-32-32/footprints.pretty")(options "")(descr ""))
   (lib (name "sym")(type "KiCad")(uri "C:/ws/BreakoutBoards/ADS1219")(options "")(descr ""))
-  (lib (name "ul_CUS-14TB")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ul_CUS-14TB/ul_CUS-14TB.pretty")(options "")(descr ""))
 )
