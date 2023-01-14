@@ -780,7 +780,6 @@
   )
 
 
-
   (wire (pts (xy 107.95 33.02) (xy 116.84 33.02))
     (stroke (width 0) (type default) (color 0 0 0 0))
     (uuid 14af6b98-052e-40ef-bebc-69a27e03eef5)
@@ -1215,7 +1214,7 @@
     (property "Value" "Conn_01x04" (id 1) (at 36.83 133.3499 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical" (id 2) (at 34.29 130.81 0)
+    (property "Footprint" "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal" (id 2) (at 34.29 130.81 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 34.29 130.81 0)
@@ -1300,7 +1299,7 @@
     (property "Value" "Conn_01x04" (id 1) (at 36.83 114.2999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical" (id 2) (at 34.29 111.76 0)
+    (property "Footprint" "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal" (id 2) (at 34.29 111.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 34.29 111.76 0)
@@ -1949,10 +1948,10 @@
       (reference "H4") (unit 1) (value "MountingHole") (footprint "MountingHole:MountingHole_2.5mm")
     )
     (path "/2d4d87f0-d617-4639-8967-fc4d84362ff9"
-      (reference "J1") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical")
+      (reference "J1") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
     )
     (path "/0b3d3461-b7d3-4182-896a-ee33de331d45"
-      (reference "J2") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_SH_BM04B-SRSS-TB_1x04-1MP_P1.00mm_Vertical")
+      (reference "J2") (unit 1) (value "Conn_01x04") (footprint "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal")
     )
     (path "/a7c1bda0-6d30-46ff-b19d-e5df136776c9"
       (reference "J3") (unit 1) (value "Conn_02x05_Odd_Even") (footprint "Connector_PinHeader_2.54mm:PinHeader_2x05_P2.54mm_Vertical")
